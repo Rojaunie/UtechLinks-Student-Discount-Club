@@ -1,5 +1,5 @@
 # UtechLinks-Student-Discount-Club
-Ppython Code Solution
+
 
 Problem Statement:
 In the university setting, such as UTech, students are faced with various challenges throughout their courses of study. Two commonly observed challenges are financial constraints and time-bound limitations, which can prevent students from being fully focused on their studies. The aim of this project is to alleviate some of these challenges by implementing more efficient and effective ways for students to gain access to essential resources. These resources include food and food delivery, mailing services (bearer), tax and bill payments, utensils, printing and photocopying services, transportation options, school supplies, and other everyday needs that support student life.Project UtechLinks is a Student Discount Club that facilitates a network of goods and services for students at a discounted rate once registered, using their student ID. The club partners with local suppliers of goods and services to provide students with access to reduced rates.

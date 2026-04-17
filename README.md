@@ -1,4 +1,9 @@
 # UtechLinks-Student-Discount-Club
+Members:
+Rojaunie Brown (ID:2400699)
+Joel Williams (ID: 2405374)
+Dominic Tracey  (ID: 2407700)
+Khaleel Kellerman  (ID:2002442)
 
 
 Problem Statement:
